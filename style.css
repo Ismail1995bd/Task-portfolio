@@ -1,0 +1,359 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    width: 100%;
+    background-image: url(header_bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 50px;
+}
+.sub-wrapper1{
+    max-width: 1050px;
+    margin: 0 auto;
+}
+
+nav ul li {
+    display: inline-block;
+    font-size: 20px;
+    margin-right: 80px;
+}
+
+ul {
+    text-align: right;
+}
+
+img1 {
+    width: 470px;
+    height: 520px;
+}
+
+.nav >.mary {
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+.portfolio {
+    margin-right: 30px;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.here {
+    border: 16px solid orangered;
+    border-radius: 5px;
+    background-color: orangered;
+    color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.homepage {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.paragraph {
+    width: 50%;
+}
+
+h4 {
+    font-size: 40px;
+}
+
+h1 {
+    font-size: 70px;
+}
+
+.butf {
+    padding: 10px 20px;
+    background-color: orange;
+    border-radius: 5px;
+    color: white;
+    display: inline-block;
+
+}
+
+.buts {
+    padding: 10px 20px;
+    background-color: white;
+    border-radius: 5px;
+    color: orange;
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+p {
+    padding-bottom: 30px;
+}
+
+.ma {
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+/*====================================
+         Start second page
+=====================================*/
+.sub-wrapper {
+    max-width: 950px;
+    margin: 0 auto;
+    margin-top: 80px;
+    padding: 60px 80px;
+    background-color: beige;
+
+}
+.Logo-name-color{
+    color:brown;
+}
+.section {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+span {
+    font: bold;
+    font-size: 20px;
+    color: black;
+    font-weight: bolder;
+}
+
+.div {
+    display: flex;
+    margin-top: 30px;
+}
+
+.name {
+    margin-left: 30px;
+}
+
+.email {
+    margin-left: 47px;
+}
+
+.date {
+    margin-left: 47px;
+}
+
+.from {
+    margin-left: 47px;
+}
+
+.sub-wrapper3 {
+    max-width: 750px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 60px;
+}
+
+h3 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.card-mother {
+    max-width: 950px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    background-color: azure;
+    margin-bottom: 50px;
+}
+
+h5 {
+    font-size: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+
+}
+
+.card1 {
+    padding: 15px;
+    background-color: white;
+    margin: 10px;
+}
+
+.card2 {
+    padding: 15px;
+    background-color: white;
+    margin: 10px;
+}
+
+.card3 {
+    padding: 15px;
+    background-color: white;
+    margin: 10px;
+}
+
+.card4 {
+    padding: 15px;
+    background-color: white;
+    margin: 10px;
+}
+
+.sub-wrapper-summary {
+    max-width: 950px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+h6 {
+    font-size: 35px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.card-mother1 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.summary-card1 {
+    margin-right: 40px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid black;
+}
+
+.summary-card2 {
+    margin-right: 40px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid black;
+}
+
+.cardh1 {
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+.cardh2 {
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+.cardh3 {
+    font-size: 22px;
+}
+
+.card-mother2 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.summary-card3 {
+    margin-right: 40px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid black;
+}
+
+.summary-card4 {
+    margin-right: 40px;
+    margin-bottom: 30px;
+    border-bottom: 1px solid black;
+}
+
+.card-mother3 {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto;
+}
+
+.summary-card5 {
+    margin-right: 40px;
+    margin-bottom: 30px;
+}
+
+.summary-card6 {
+    margin-right: 40px;
+    margin-bottom: 30px;
+}
+.cardh3{
+    color: rgb(169, 182, 182);
+}
+p{
+    color:rgb(175, 187, 187) ;
+}
+.cv{
+    font-size: 20px;
+    background-color: orangered;
+    padding: 15px;
+    display: inline-block;
+    border-radius: 5px;
+    margin-left:40%;
+    color: white;
+    margin-top: 50px;
+
+}
+.wrapper-last{
+width: 100;
+background-color: beige;
+}
+.sub-wrapper-last{
+    max-width:950px ;
+    margin: 0 auto;
+}
+.lasth{
+    font-size: 35px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+/*============================
+
+
+.from{
+    display: inline-block;
+}
+.name{
+border:10px 30px;
+}
+.e-mail{
+border: 10px solid beige;
+}
+.massage{
+    border: 10px;
+}
+    ==============================*/
+.submit{
+    font-size: 20px;
+    padding: 10px 25px;
+    background-color: orangered; 
+    border-radius: 5px;
+    color: white;
+
+
+}
+.contact{
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+}
+.contact-card1{
+    width: 50%;
+   
+}
+.contact-card2{
+
+}
+input, textarea{
+    padding: 10px 20px;
+    width: 300px;
+    border: none;
+    resize: none;
+    outline: none;
+}
